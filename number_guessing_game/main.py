@@ -1,11 +1,11 @@
 import random
 from re import I
 
-random_num = random.randint(1,9)
+random_num = random.randint(1,100)
 guess = 0
 i = 0
 while guess != random_num and guess != "exit":
-    guess = input("Guess a number 1 through 9: ")
+    guess = input("Guess a number 1 through 100: ")
 
     if guess == "exit":
         break
