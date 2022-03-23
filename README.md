@@ -1,1 +1,1 @@
-Number guessing game for numbers 1-9
+Number guessing game for numbers 1-100
